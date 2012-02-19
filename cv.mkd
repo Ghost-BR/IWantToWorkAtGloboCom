@@ -1,8 +1,11 @@
-Vaga
+Vagas
 ====
 
-Área de Entretenimento
-Área de Social
+* Área de Entretenimento
+
+* Área de Social
+
+* Área Mobile
 
 CV
 ==
@@ -56,11 +59,11 @@ christoferbertonha@gmail.com
 
 ### Formação Acadêmica
 
-Engenharia da Computação - Centro Universitário Central Paulista (01/2007 - 12/2011)
+* Engenharia da Computação - Centro Universitário Central Paulista (01/2007 - 12/2011)
 
 ### Idiomas
 
-Inglês avançado
+* Inglês avançado
 
 ## CV online
 * http://bit.ly/zgzRSf
@@ -68,3 +71,4 @@ Inglês avançado
 ## SOCIAL
 * Facebook (http://www.facebook.com/GhostBR)
 * Twitter (https://twitter.com/#!/Ghost__BR)
+
