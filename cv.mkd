@@ -1,9 +1,70 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
+Área de Social
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Christofer Bertonha
+Rua Ismael Pedro Branco, 63
+Astolpho L. Prado - São Carlos/SP
+christoferbertonha@gmail.com
+
+## Qualificações
+
+### Tecnologias
+
+* Pyhton
+* PHP
+* Java
+* Javascript
+* CSS 3
+* HTML 5
+* MySQL
+* PostgreSQL
+
+### Frameworks
+
+* Django (Python)
+* Qt / PySide (C++/Python)
+
+### Práticas e Metodologias
+
+* TDD
+
+### Experiências profissionais
+
+* IFSC - USP - São Carlos/SP
+  Desenvolvimento Tecnológico, Programador Python
+  Fevereiro/2011 - Janeiro/2012
+
+* Korth RFID - São Carlos/SP
+  Programação em assembly e C para o microcontroladores para identificação por RFID
+  Junho/2010 - Fevereiro/2011
+
+* Infotec – Laboratório Técnico - São Carlos/SP
+  Cargo: Técnico em informática
+  Tarefas realizadas: Formatação e instalação de softwares, implementação de redes de computadores e manutenção no hardware.
+  Janeiro/2003 - Junho/2010
+
+* Centro Universitário Central Paulista (UNICEP)
+  Estagiário do Centro Integrado de Pesquisa (CENIP)
+  Tarefas realizadas: Programação em C/C++, JAVA e PHP.
+  Março/2008 - Abril/2010
+
+### Formação Acadêmica
+
+Engenharia da Computação - Centro Universitário Central Paulista (01/2007 - 12/2011)
+
+### Idiomas
+
+Inglês avançado
+
+## CV online
+* http://bit.ly/zgzRSf
+
+## SOCIAL
+* Facebook (http://www.facebook.com/GhostBR)
+* Twitter (https://twitter.com/#!/Ghost__BR)
